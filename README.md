@@ -62,4 +62,4 @@ $ python HQGR.py -i ./example/ccs.fa -d ./example/barcode.fasta -min 8000 -max 9
 ```
 
 # Contact
-Questions and suggestions are welcome, feel free to contact: Caizhengfei686@
+Questions and suggestions are welcome, feel free to contact: Caizhengfei686@qq.com
